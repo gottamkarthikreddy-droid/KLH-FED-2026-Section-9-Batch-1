@@ -1,0 +1,6 @@
+{
+  "name": "Wireless Proximity Access Control Node",
+  "description": "10-Slide DDCA Presentation & Interactive 3D ESP32-CAM State Controller Showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
